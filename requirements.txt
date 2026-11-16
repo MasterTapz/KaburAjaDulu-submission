@@ -1,0 +1,6 @@
+# Pinned so that `python -m kaburajadulu.run` rebuilds the submission byte for byte.
+numpy==2.5.4
+pandas==3.1.0
+# pandas' own dependencies, pinned too so a fresh install is the same everywhere.
+python-dateutil==4.0.0
+tzdata==2026.6
